@@ -29,8 +29,8 @@ const Footer = () => {
         <div>
             <p className='text-xl font-medium mb-5' >GET IN TOUCH</p>
             <ul  className='flex flex-col gap-2 text-gray-600'>
-                <li>6202129976</li>
-                <li>anuradhaguptajsr12@gmail.com</li>
+                <li>+91 8888877777</li>
+                <li>ankitagupta2603@gmail.com</li>
             </ul>
         </div>
 
