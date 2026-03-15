@@ -56,7 +56,8 @@ https://prescripto-cojy.vercel.app/
 - Render (Backend)
 
 # ⚙️ System Architecture
-┌────────────────────────────┐
+```
+          ┌────────────────────────────┐
           │        User Website        │
           │      React + Vite          │
           │        (Vercel)            │
@@ -83,8 +84,9 @@ https://prescripto-cojy.vercel.app/
         │           Admin Panel             │
         │        React + Vite (Vercel)      │
         └───────────────────────────────────┘
+        ```
 
-        # 📂 Project Structure
+# 📂 Project Structure
 
 prescripto │ ├── frontend        # User website ├── admin           # Admin dashboard ├── backend         # Node.js API │ └── README.md
 
